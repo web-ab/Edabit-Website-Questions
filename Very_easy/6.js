@@ -25,6 +25,9 @@
 
 
 function cubes(a) {
+
+    // ** operator is a Exponentiation
+
 	return a ** 3
 }
 
