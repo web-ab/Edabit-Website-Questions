@@ -1,6 +1,3 @@
-// 1. First question
-
-
 // Question : Buggy Code (Part 7)
 // Mubashir wants to swap two given numbers!
 
